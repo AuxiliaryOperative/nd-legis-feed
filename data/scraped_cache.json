@@ -1,0 +1,114 @@
+{
+  "53145": {
+    "end_iso": "2026-11-12T17:00:00",
+    "location": "House Chamber, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-11-12",
+    "start_iso": "2026-11-12T09:00:00",
+    "tz_abbr": "CST"
+  },
+  "53516": {
+    "end_iso": "2026-09-24T15:45:00",
+    "location": "Harvest Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-24",
+    "start_iso": "2026-09-24T10:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53529": {
+    "end_iso": "2026-10-01T15:00:00",
+    "location": "Harvest Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-10-01",
+    "start_iso": "2026-10-01T09:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53720": {
+    "end_iso": "2026-10-01T17:00:00",
+    "location": "Room 327B, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-10-01",
+    "start_iso": "2026-10-01T10:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53739": {
+    "end_iso": "2026-09-29T14:00:00",
+    "location": "Harvest Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-29",
+    "start_iso": "2026-09-29T10:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53760": {
+    "end_iso": "2026-10-06T17:00:00",
+    "location": "Harvest Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-10-06",
+    "start_iso": "2026-10-06T09:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53774": {
+    "end_iso": "2026-09-24T15:00:00",
+    "location": "Roughrider Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-24",
+    "start_iso": "2026-09-24T10:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53780": {
+    "end_iso": "2026-09-30T12:10:00",
+    "location": "Senate Chamber, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-30",
+    "start_iso": "2026-09-30T09:30:00",
+    "tz_abbr": "CDT"
+  },
+  "53790": {
+    "end_iso": "2026-09-29T14:15:00",
+    "location": "Roughrider Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-29",
+    "start_iso": "2026-09-29T10:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53791": {
+    "end_iso": "2026-09-30T15:15:00",
+    "location": "Harvest Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-30",
+    "start_iso": "2026-09-30T13:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53792": {
+    "end_iso": "2026-09-30T16:00:00",
+    "location": "Roughrider Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-30",
+    "start_iso": "2026-09-30T13:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53824": {
+    "end_iso": "2026-09-30T15:30:00",
+    "location": "Room 327E, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-30",
+    "start_iso": "2026-09-30T13:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53828": {
+    "end_iso": "2026-10-06T16:00:00",
+    "location": "Grand Farm Innovation Campus, 3717 153rd Avenue SE, Wheatland, ,, ND",
+    "meeting_date": "2026-10-06",
+    "start_iso": "2026-10-06T09:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53832": {
+    "end_iso": "2026-09-30T15:30:00",
+    "location": "Room 327B, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-09-30",
+    "start_iso": "2026-09-30T13:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53833": {
+    "end_iso": "2026-10-06T12:00:00",
+    "location": "Roughrider Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-10-06",
+    "start_iso": "2026-10-06T09:00:00",
+    "tz_abbr": "CDT"
+  },
+  "53835": {
+    "end_iso": "2026-10-01T15:15:00",
+    "location": "Roughrider Room, State Capitol, Bismarck, ,, ND",
+    "meeting_date": "2026-10-01",
+    "start_iso": "2026-10-01T10:00:00",
+    "tz_abbr": "CDT"
+  }
+}
