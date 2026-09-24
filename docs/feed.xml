@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Wed, 23 Sep 2026 21:55:31 GMT</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 15:43:24 GMT</lastBuildDate>
 <item>
 <title>Legislative Management</title>
 <link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
@@ -37,70 +37,70 @@
 <title>Government Finance Committee</title>
 <link>https://ndlegis.gov/events/2026/10/01/government-finance-committee</link>
 <guid>53835</guid>
-<description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T15:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 1 October 2026 Update: Meeting Notice and Agenda Added</description>
+<description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T15:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Thu, 17 Sep 2026 16:02</pubDate>
 </item>
 <item>
 <title>Employee Benefits Programs Committee</title>
 <link>https://ndlegis.gov/events/2026/10/01/employee-benefits-programs-committee</link>
 <guid>53720</guid>
-<description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T17:00:00|||TZ|||CDT|||LOCATION|||Room 327B, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 1 October 2026 Update: Meeting Agenda Added</description>
+<description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T17:00:00|||TZ|||CDT|||LOCATION|||Room 327B, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Wed, 05 Aug 2026 10:21</pubDate>
 </item>
 <item>
 <title>Protection and Victim Services Committee</title>
 <link>https://ndlegis.gov/events/2026/10/01/protection-and-victim-services-committee</link>
 <guid>53529</guid>
-<description>DATE|||2026-10-01|||START|||2026-10-01T09:00:00|||END|||2026-10-01T15:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 1 October 2026 Update: Meeting Agenda Added</description>
+<description>DATE|||2026-10-01|||START|||2026-10-01T09:00:00|||END|||2026-10-01T15:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Thu, 23 Jul 2026 15:59</pubDate>
-</item>
-<item>
-<title>Budget Section - Human Resources Division</title>
-<link>https://ndlegis.gov/events/2026/09/30/budget-section-human-resources-division</link>
-<guid>53792</guid>
-<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T16:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 30 September 2026 Update: Meeting Notice and Agenda Added</description>
-<pubDate>Fri, 11 Sep 2026 08:31</pubDate>
-</item>
-<item>
-<title>Budget Section - Education and Environment Division</title>
-<link>https://ndlegis.gov/events/2026/09/30/budget-section-education-and-environment-division</link>
-<guid>53832</guid>
-<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:30:00|||TZ|||CDT|||LOCATION|||Room 327B, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 30 September 2026 Update: Meeting Agenda Revised</description>
-<pubDate>Thu, 17 Sep 2026 08:21</pubDate>
 </item>
 <item>
 <title>Budget Section - Government Operations Division</title>
 <link>https://ndlegis.gov/events/2026/09/30/budget-section-government-operations-division</link>
 <guid>53824</guid>
-<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:30:00|||TZ|||CDT|||LOCATION|||Room 327E, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 30 September 2026 Update: Meeting Notice and Agenda Added</description>
+<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:30:00|||TZ|||CDT|||LOCATION|||Room 327E, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Mon, 14 Sep 2026 14:52</pubDate>
 </item>
 <item>
 <title>Budget Section - Leadership Division</title>
 <link>https://ndlegis.gov/events/2026/09/30/budget-section-leadership-division</link>
 <guid>53791</guid>
-<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:15:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 30 September 2026 Update: Meeting Notice and Agenda Added</description>
+<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:15:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Thu, 10 Sep 2026 12:39</pubDate>
+</item>
+<item>
+<title>Budget Section - Human Resources Division</title>
+<link>https://ndlegis.gov/events/2026/09/30/budget-section-human-resources-division</link>
+<guid>53792</guid>
+<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T16:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
+<pubDate>Fri, 11 Sep 2026 08:31</pubDate>
+</item>
+<item>
+<title>Budget Section - Education and Environment Division</title>
+<link>https://ndlegis.gov/events/2026/09/30/budget-section-education-and-environment-division</link>
+<guid>53832</guid>
+<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:30:00|||TZ|||CDT|||LOCATION|||Room 327B, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
+<pubDate>Thu, 17 Sep 2026 08:21</pubDate>
 </item>
 <item>
 <title>Budget Section</title>
 <link>https://ndlegis.gov/events/2026/09/30/budget-section</link>
 <guid>53780</guid>
-<description>DATE|||2026-09-30|||START|||2026-09-30T09:30:00|||END|||2026-09-30T12:10:00|||TZ|||CDT|||LOCATION|||Senate Chamber, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 30 September 2026 Update: Meeting Notice and Agenda Added</description>
+<description>DATE|||2026-09-30|||START|||2026-09-30T09:30:00|||END|||2026-09-30T12:10:00|||TZ|||CDT|||LOCATION|||Senate Chamber, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Fri, 04 Sep 2026 12:04</pubDate>
 </item>
 <item>
 <title>Tax Reform and Relief Advisory Committee</title>
 <link>https://ndlegis.gov/events/2026/09/29/tax-reform-and-relief-advisory-committee</link>
 <guid>53790</guid>
-<description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 29 September 2026 Update: Meeting Agenda Added</description>
+<description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Thu, 10 Sep 2026 12:33</pubDate>
 </item>
 <item>
 <title>Legislative Task Force on Government Efficiency</title>
 <link>https://ndlegis.gov/events/2026/09/29/legislative-task-force-government-efficiency</link>
 <guid>53739</guid>
-<description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 29 September 2026 Update: Meeting Agenda Revised</description>
+<description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Fri, 14 Aug 2026 11:10</pubDate>
 </item>
 <item>
