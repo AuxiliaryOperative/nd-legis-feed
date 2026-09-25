@@ -110,5 +110,12 @@
     "meeting_date": "2026-10-01",
     "start_iso": "2026-10-01T10:00:00",
     "tz_abbr": "CDT"
+  },
+  "53863": {
+    "end_iso": "2026-10-13T16:00:00",
+    "location": "Roughrider Room, State Capitol, Bismarck, United States",
+    "meeting_date": "2026-10-13",
+    "start_iso": "2026-10-13T09:30:00",
+    "tz_abbr": "CDT"
   }
 }
