@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Fri, 25 Sep 2026 15:44:43 GMT</lastBuildDate>
+<lastBuildDate>Sat, 26 Sep 2026 14:54:06 GMT</lastBuildDate>
 <item>
 <title>Legislative Management</title>
 <link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
@@ -20,6 +20,20 @@
 <pubDate>Fri, 25 Sep 2026 09:33</pubDate>
 </item>
 <item>
+<title>Energy Development and Transmission Committee</title>
+<link>https://ndlegis.gov/events/2026/10/07/energy-development-and-transmission-committee</link>
+<guid>53864</guid>
+<description>DATE|||2026-10-07|||START|||2026-10-07T09:00:00|||END|||2026-10-07T16:00:00|||TZ|||CDT|||LOCATION|||Rough Rider Center, 2209 Wolves Den Parkway, Watford City, ,, ND|||DESC|||Meeting Date: 8 October 2026 Update: Meeting Notice Added</description>
+<pubDate>Fri, 25 Sep 2026 13:34</pubDate>
+</item>
+<item>
+<title>Artificial Intelligence and Data Center Committee</title>
+<link>https://ndlegis.gov/events/2026/10/06/artificial-intelligence-and-data-center-committee</link>
+<guid>53828</guid>
+<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T16:00:00|||TZ|||CDT|||LOCATION|||Grand Farm Innovation Campus, 3717 153rd Avenue SE, Wheatland, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Agenda Added</description>
+<pubDate>Tue, 15 Sep 2026 11:16</pubDate>
+</item>
+<item>
 <title>Health Care Committee</title>
 <link>https://ndlegis.gov/events/2026/10/06/health-care-committee</link>
 <guid>53760</guid>
@@ -32,13 +46,6 @@
 <guid>53833</guid>
 <description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T12:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Notice Revised</description>
 <pubDate>Thu, 17 Sep 2026 08:32</pubDate>
-</item>
-<item>
-<title>Artificial Intelligence and Data Center Committee</title>
-<link>https://ndlegis.gov/events/2026/10/06/artificial-intelligence-and-data-center-committee</link>
-<guid>53828</guid>
-<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T16:00:00|||TZ|||CDT|||LOCATION|||Grand Farm Innovation Campus, 3717 153rd Avenue SE, Wheatland, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Notice Added</description>
-<pubDate>Tue, 15 Sep 2026 11:16</pubDate>
 </item>
 <item>
 <title>Government Finance Committee</title>
@@ -62,6 +69,13 @@
 <pubDate>Thu, 23 Jul 2026 15:59</pubDate>
 </item>
 <item>
+<title>Budget Section - Leadership Division</title>
+<link>https://ndlegis.gov/events/2026/09/30/budget-section-leadership-division</link>
+<guid>53791</guid>
+<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:15:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
+<pubDate>Thu, 10 Sep 2026 12:39</pubDate>
+</item>
+<item>
 <title>Budget Section - Human Resources Division</title>
 <link>https://ndlegis.gov/events/2026/09/30/budget-section-human-resources-division</link>
 <guid>53792</guid>
@@ -81,13 +95,6 @@
 <guid>53824</guid>
 <description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:30:00|||TZ|||CDT|||LOCATION|||Room 327E, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Mon, 14 Sep 2026 14:52</pubDate>
-</item>
-<item>
-<title>Budget Section - Leadership Division</title>
-<link>https://ndlegis.gov/events/2026/09/30/budget-section-leadership-division</link>
-<guid>53791</guid>
-<description>DATE|||2026-09-30|||START|||2026-09-30T13:00:00|||END|||2026-09-30T15:15:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Thu, 10 Sep 2026 12:39</pubDate>
 </item>
 <item>
 <title>Budget Section</title>
