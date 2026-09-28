@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Sun, 27 Sep 2026 15:32:00 GMT</lastBuildDate>
+<lastBuildDate>Mon, 28 Sep 2026 18:30:38 GMT</lastBuildDate>
 <item>
 <title>Legislative Management</title>
 <link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
@@ -104,18 +104,18 @@
 <pubDate>Fri, 04 Sep 2026 12:04</pubDate>
 </item>
 <item>
-<title>Tax Reform and Relief Advisory Committee</title>
-<link>https://ndlegis.gov/events/2026/09/29/tax-reform-and-relief-advisory-committee</link>
-<guid>53790</guid>
-<description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Thu, 10 Sep 2026 12:33</pubDate>
-</item>
-<item>
 <title>Legislative Task Force on Government Efficiency</title>
 <link>https://ndlegis.gov/events/2026/09/29/legislative-task-force-government-efficiency</link>
 <guid>53739</guid>
 <description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Fri, 14 Aug 2026 11:10</pubDate>
+</item>
+<item>
+<title>Tax Reform and Relief Advisory Committee</title>
+<link>https://ndlegis.gov/events/2026/09/29/tax-reform-and-relief-advisory-committee</link>
+<guid>53790</guid>
+<description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
+<pubDate>Thu, 10 Sep 2026 12:33</pubDate>
 </item>
 </channel>
 </rss>
