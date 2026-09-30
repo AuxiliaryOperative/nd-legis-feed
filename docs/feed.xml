@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Tue, 29 Sep 2026 16:48:32 GMT</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 16:41:07 GMT</lastBuildDate>
 <item>
 <title>Legislative Management</title>
 <link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
@@ -27,6 +27,13 @@
 <pubDate>Fri, 25 Sep 2026 13:34</pubDate>
 </item>
 <item>
+<title>Health Care Committee</title>
+<link>https://ndlegis.gov/events/2026/10/06/health-care-committee</link>
+<guid>53760</guid>
+<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T17:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Agenda Added</description>
+<pubDate>Tue, 25 Aug 2026 08:32</pubDate>
+</item>
+<item>
 <title>Higher Education Funding Review Committee</title>
 <link>https://ndlegis.gov/events/2026/10/06/higher-education-funding-review-committee</link>
 <guid>53833</guid>
@@ -41,11 +48,11 @@
 <pubDate>Tue, 15 Sep 2026 11:16</pubDate>
 </item>
 <item>
-<title>Health Care Committee</title>
-<link>https://ndlegis.gov/events/2026/10/06/health-care-committee</link>
-<guid>53760</guid>
-<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T17:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Notice Revised</description>
-<pubDate>Tue, 25 Aug 2026 08:32</pubDate>
+<title>Employee Benefits Programs Committee</title>
+<link>https://ndlegis.gov/events/2026/10/01/employee-benefits-programs-committee</link>
+<guid>53720</guid>
+<description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T17:00:00|||TZ|||CDT|||LOCATION|||Room 327B, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 1 October 2026 Update: Meeting Agenda Revised</description>
+<pubDate>Wed, 05 Aug 2026 10:21</pubDate>
 </item>
 <item>
 <title>Government Finance Committee</title>
@@ -53,13 +60,6 @@
 <guid>53835</guid>
 <description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T15:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
 <pubDate>Thu, 17 Sep 2026 16:02</pubDate>
-</item>
-<item>
-<title>Employee Benefits Programs Committee</title>
-<link>https://ndlegis.gov/events/2026/10/01/employee-benefits-programs-committee</link>
-<guid>53720</guid>
-<description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T17:00:00|||TZ|||CDT|||LOCATION|||Room 327B, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 1 October 2026 Update: Meeting Agenda Revised</description>
-<pubDate>Wed, 05 Aug 2026 10:21</pubDate>
 </item>
 <item>
 <title>Protection and Victim Services Committee</title>
@@ -102,20 +102,6 @@
 <guid>53780</guid>
 <description>DATE|||2026-09-30|||START|||2026-09-30T09:30:00|||END|||2026-09-30T12:10:00|||TZ|||CDT|||LOCATION|||Senate Chamber, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 30 September 2026 Update: Meeting Agenda Revised</description>
 <pubDate>Fri, 04 Sep 2026 12:04</pubDate>
-</item>
-<item>
-<title>Tax Reform and Relief Advisory Committee</title>
-<link>https://ndlegis.gov/events/2026/09/29/tax-reform-and-relief-advisory-committee</link>
-<guid>53790</guid>
-<description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Thu, 10 Sep 2026 12:33</pubDate>
-</item>
-<item>
-<title>Legislative Task Force on Government Efficiency</title>
-<link>https://ndlegis.gov/events/2026/09/29/legislative-task-force-government-efficiency</link>
-<guid>53739</guid>
-<description>DATE|||2026-09-29|||START|||2026-09-29T10:00:00|||END|||2026-09-29T14:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Fri, 14 Aug 2026 11:10</pubDate>
 </item>
 </channel>
 </rss>
