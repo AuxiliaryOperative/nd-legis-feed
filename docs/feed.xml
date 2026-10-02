@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Thu, 01 Oct 2026 17:17:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 16:30:54 GMT</lastBuildDate>
 <item>
 <title>Legislative Management</title>
 <link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
@@ -23,15 +23,8 @@
 <title>Energy Development and Transmission Committee</title>
 <link>https://ndlegis.gov/events/2026/10/07/energy-development-and-transmission-committee</link>
 <guid>53864</guid>
-<description>DATE|||2026-10-07|||START|||2026-10-07T09:00:00|||END|||2026-10-07T16:00:00|||TZ|||CDT|||LOCATION|||Rough Rider Center, 2209 Wolves Den Parkway, Watford City, ,, ND|||DESC|||Meeting Date: 8 October 2026 Update: Meeting Notice Added</description>
+<description>DATE|||2026-10-07|||START|||2026-10-07T09:00:00|||END|||2026-10-07T16:00:00|||TZ|||CDT|||LOCATION|||Rough Rider Center, 2209 Wolves Den Parkway, Watford City, ,, ND|||DESC|||Meeting Date: 8 October 2026 Update: Meeting Agenda Added</description>
 <pubDate>Fri, 25 Sep 2026 13:34</pubDate>
-</item>
-<item>
-<title>Higher Education Funding Review Committee</title>
-<link>https://ndlegis.gov/events/2026/10/06/higher-education-funding-review-committee</link>
-<guid>53833</guid>
-<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T12:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Notice Revised</description>
-<pubDate>Thu, 17 Sep 2026 08:32</pubDate>
 </item>
 <item>
 <title>Artificial Intelligence and Data Center Committee</title>
@@ -48,25 +41,11 @@
 <pubDate>Tue, 25 Aug 2026 08:32</pubDate>
 </item>
 <item>
-<title>Government Finance Committee</title>
-<link>https://ndlegis.gov/events/2026/10/01/government-finance-committee</link>
-<guid>53835</guid>
-<description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T15:15:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Thu, 17 Sep 2026 16:02</pubDate>
-</item>
-<item>
-<title>Employee Benefits Programs Committee</title>
-<link>https://ndlegis.gov/events/2026/10/01/employee-benefits-programs-committee</link>
-<guid>53720</guid>
-<description>DATE|||2026-10-01|||START|||2026-10-01T10:00:00|||END|||2026-10-01T17:00:00|||TZ|||CDT|||LOCATION|||Room 327B, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Wed, 05 Aug 2026 10:21</pubDate>
-</item>
-<item>
-<title>Protection and Victim Services Committee</title>
-<link>https://ndlegis.gov/events/2026/10/01/protection-and-victim-services-committee</link>
-<guid>53529</guid>
-<description>DATE|||2026-10-01|||START|||2026-10-01T09:00:00|||END|||2026-10-01T15:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Thu, 23 Jul 2026 15:59</pubDate>
+<title>Higher Education Funding Review Committee</title>
+<link>https://ndlegis.gov/events/2026/10/06/higher-education-funding-review-committee</link>
+<guid>53833</guid>
+<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T12:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Agenda Added</description>
+<pubDate>Thu, 17 Sep 2026 08:32</pubDate>
 </item>
 </channel>
 </rss>
