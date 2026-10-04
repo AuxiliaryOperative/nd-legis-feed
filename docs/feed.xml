@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Sat, 03 Oct 2026 15:03:34 GMT</lastBuildDate>
+<lastBuildDate>Sun, 04 Oct 2026 15:40:44 GMT</lastBuildDate>
 <item>
 <title>Legislative Management</title>
 <link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
@@ -27,6 +27,13 @@
 <pubDate>Fri, 25 Sep 2026 13:34</pubDate>
 </item>
 <item>
+<title>Artificial Intelligence and Data Center Committee</title>
+<link>https://ndlegis.gov/events/2026/10/06/artificial-intelligence-and-data-center-committee</link>
+<guid>53828</guid>
+<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T16:00:00|||TZ|||CDT|||LOCATION|||Grand Farm Innovation Campus, 3717 153rd Avenue SE, Wheatland, ,, ND|||DESC|||(no summary provided)</description>
+<pubDate>Tue, 15 Sep 2026 11:16</pubDate>
+</item>
+<item>
 <title>Health Care Committee</title>
 <link>https://ndlegis.gov/events/2026/10/06/health-care-committee</link>
 <guid>53760</guid>
@@ -39,13 +46,6 @@
 <guid>53833</guid>
 <description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T12:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Agenda Added</description>
 <pubDate>Thu, 17 Sep 2026 08:32</pubDate>
-</item>
-<item>
-<title>Artificial Intelligence and Data Center Committee</title>
-<link>https://ndlegis.gov/events/2026/10/06/artificial-intelligence-and-data-center-committee</link>
-<guid>53828</guid>
-<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T16:00:00|||TZ|||CDT|||LOCATION|||Grand Farm Innovation Campus, 3717 153rd Avenue SE, Wheatland, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Tue, 15 Sep 2026 11:16</pubDate>
 </item>
 </channel>
 </rss>
