@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Mon, 05 Oct 2026 19:41:16 GMT</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 17:03:15 GMT</lastBuildDate>
 <item>
 <title>Legislative Management</title>
 <link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
@@ -27,13 +27,6 @@
 <pubDate>Fri, 25 Sep 2026 13:34</pubDate>
 </item>
 <item>
-<title>Higher Education Funding Review Committee</title>
-<link>https://ndlegis.gov/events/2026/10/06/higher-education-funding-review-committee</link>
-<guid>53833</guid>
-<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T12:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
-<pubDate>Thu, 17 Sep 2026 08:32</pubDate>
-</item>
-<item>
 <title>Artificial Intelligence and Data Center Committee</title>
 <link>https://ndlegis.gov/events/2026/10/06/artificial-intelligence-and-data-center-committee</link>
 <guid>53828</guid>
@@ -46,6 +39,13 @@
 <guid>53760</guid>
 <description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T17:00:00|||TZ|||CDT|||LOCATION|||Harvest Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 6 October 2026 Update: Meeting Agenda Revised</description>
 <pubDate>Tue, 25 Aug 2026 08:32</pubDate>
+</item>
+<item>
+<title>Higher Education Funding Review Committee</title>
+<link>https://ndlegis.gov/events/2026/10/06/higher-education-funding-review-committee</link>
+<guid>53833</guid>
+<description>DATE|||2026-10-06|||START|||2026-10-06T09:00:00|||END|||2026-10-06T12:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||(no summary provided)</description>
+<pubDate>Thu, 17 Sep 2026 08:32</pubDate>
 </item>
 </channel>
 </rss>
