@@ -124,5 +124,12 @@
     "meeting_date": "2026-10-07",
     "start_iso": "2026-10-07T09:00:00",
     "tz_abbr": "CDT"
+  },
+  "53984": {
+    "end_iso": "2026-10-28T09:15:00",
+    "location": "Workforce Safety Insurance Board Room, 1600 East Century Ave, Bismarck, ,, ND",
+    "meeting_date": "2026-10-28",
+    "start_iso": "2026-10-28T08:30:00",
+    "tz_abbr": "CDT"
   }
 }
