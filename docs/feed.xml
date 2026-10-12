@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Sun, 11 Oct 2026 16:34:12 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 20:07:55 GMT</lastBuildDate>
 <item>
 <title>Legislative Management</title>
 <link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
@@ -13,11 +13,25 @@
 <pubDate>Tue, 05 May 2026 16:12</pubDate>
 </item>
 <item>
+<title>Employee Benefits Programs Committee</title>
+<link>https://ndlegis.gov/events/2026/10/28/employee-benefits-programs-committee</link>
+<guid>53987</guid>
+<description>DATE|||2026-10-28|||START|||2026-10-28T10:00:00|||END|||2026-10-28T16:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 28 October 2026 Update: Meeting Notice Added</description>
+<pubDate>Mon, 12 Oct 2026 12:33</pubDate>
+</item>
+<item>
 <title>Legacy and Budget Stabilization Fund Advisory Board</title>
 <link>https://ndlegis.gov/events/2026/10/28/legacy-and-budget-stabilization-fund-advisory-board</link>
 <guid>53984</guid>
 <description>DATE|||2026-10-28|||START|||2026-10-28T08:30:00|||END|||2026-10-28T09:15:00|||TZ|||CDT|||LOCATION|||Workforce Safety Insurance Board Room, 1600 East Century Ave, Bismarck, ,, ND|||DESC|||Meeting Date: 28 October 2026 Update: Meeting Notice and Agenda Added</description>
 <pubDate>Thu, 08 Oct 2026 15:37</pubDate>
+</item>
+<item>
+<title>Artificial Intelligence and Data Center Committee</title>
+<link>https://ndlegis.gov/events/2026/10/20/artificial-intelligence-and-data-center-committee</link>
+<guid>53986</guid>
+<description>DATE|||2026-10-20|||START|||2026-10-20T10:00:00|||END|||2026-10-20T14:00:00|||TZ|||CDT|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 20 October 2026 Update: Meeting Notice Added</description>
+<pubDate>Mon, 12 Oct 2026 11:25</pubDate>
 </item>
 <item>
 <title>Emergency Response Services Committee</title>
