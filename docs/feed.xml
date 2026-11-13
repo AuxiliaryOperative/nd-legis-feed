@@ -4,7 +4,7 @@
 <title>ND Legislature Events (enriched)</title>
 <link>https://ndlegis.gov/events/feed</link>
 <description>Auto-generated from the ND Legislative Branch events feed, with meeting time and location scraped from each notice's page.</description>
-<lastBuildDate>Thu, 12 Nov 2026 18:42:47 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 18:25:01 GMT</lastBuildDate>
 <item>
 <title>Administrative Rules Committee</title>
 <link>https://ndlegis.gov/events/2026/12/08/administrative-rules-committee</link>
@@ -16,15 +16,8 @@
 <title>Legislative Audit and Fiscal Review Committee</title>
 <link>https://ndlegis.gov/events/2026/11/30/legislative-audit-and-fiscal-review-committee</link>
 <guid>54247</guid>
-<description>DATE|||2026-11-30|||START|||2026-11-30T10:00:00|||END|||2026-11-30T16:00:00|||TZ|||CST|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 30 November 2026 Update: Meeting Notice and Agenda Added</description>
+<description>DATE|||2026-11-30|||START|||2026-11-30T10:00:00|||END|||2026-11-30T16:00:00|||TZ|||CST|||LOCATION|||Roughrider Room, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 30 November 2026 Update: Meeting Agenda Revised</description>
 <pubDate>Thu, 12 Nov 2026 10:08</pubDate>
-</item>
-<item>
-<title>Legislative Management</title>
-<link>https://ndlegis.gov/events/2026/11/12/legislative-management</link>
-<guid>53145</guid>
-<description>DATE|||2026-11-12|||START|||2026-11-12T09:00:00|||END|||2026-11-12T17:00:00|||TZ|||CST|||LOCATION|||House Chamber, State Capitol, Bismarck, ,, ND|||DESC|||Meeting Date: 13 November 2026 Update: Meeting Agenda Revised</description>
-<pubDate>Tue, 05 May 2026 16:12</pubDate>
 </item>
 </channel>
 </rss>
